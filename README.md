@@ -1,2 +1,3 @@
 # JavascriptBasics
-Practice javascript basics
+
+Practice problems on vanilla JavaScript/ES6
